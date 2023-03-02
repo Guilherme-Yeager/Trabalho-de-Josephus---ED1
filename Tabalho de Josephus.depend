@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677758823 source:c:\users\guilh\desktop\estudos\projetos c e c++\ed1 c\aulas\tabalho de josephus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
